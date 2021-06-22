@@ -40,6 +40,6 @@ This will launch the Node server on port 3900. If that port is busy, you can set
 
 Open up your browser and head over to:
 
-http://localhost:3900/api/genres
+http://localhost:3900/api/cats
 
-You should see the list of genres. That confirms that you have set up everything successfully.
+You should see the list of cats. That confirms that you have set up everything successfully.
